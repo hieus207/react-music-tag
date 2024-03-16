@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "reactjs-audiotag": "^1.0.1"
-  }
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hieus207/react-music-tag/issues"
